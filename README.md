@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/missing-the-way-we/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Missing The Way We](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-the-way-we/) |
+| **Get License** | [Commercial Licensing for Missing The Way We](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-the-way-we/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still feel the heat of your hands in the dark
+> The slide of your fingers igniting a spark
+> I close my eyes and I let the tape play
+> Missing the way we would melt in the gray
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
