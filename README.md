@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/missing-the-way-we/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Missing The Way We](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-the-way-we/) |
+| **Get License** | [Get License For Missing The Way We](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-the-way-we/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `98a3eaf8f2978bfda25aa907246813fb7546580e04dedd206e83b560e59a2f06` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

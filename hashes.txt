@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Missing The Way We
+
+This log tracks the cryptographic history and versioning for the song **Missing The Way We** (missing-the-way-we).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T15:47:15.813118 | `v1` | `98a3eaf8f2978bfda25aa907246813fb7546580e04dedd206e83b560e59a2f06` | `e4c8f6ebed6c2e1124fe61b4d12b0b89d7362ada44ce68dfca386ad776c74b82` | `2026-06-09_missing-the-way-we-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
